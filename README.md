@@ -1,5 +1,4 @@
-# CS305
-Software Security
+# Software Security
 
 ### Client and Software Requirements:
 
